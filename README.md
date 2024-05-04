@@ -1,15 +1,15 @@
- 👋 	Hi, I’m @Duckolly  😎\n
+ 👋 	Hi, I’m @Duckolly  😎  
 
-- 🌱 I’m currently learning SQL-postgre, python, dax, ms-sql, css\n
+- 🌱 I’m currently learning SQL-postgre, python, dax, ms-sql, css  
 
-😯 Technical Toolkit\n
-Data Manipulation: SQL, NoSQL, Python, Excel, Postgre, CSS, NoCode 😼\n
-Big Data: -\n
+😯 Technical Toolkit  
+Data Manipulation: SQL, NoSQL, Python, Excel, Postgre, CSS, NoCode 😼  
+Big Data: -  
 Cloud Technologies: AWS\n
-Visualization: Power BI, Superset, Metabase 😸\n
-Workflows: Airflow\n
-Databases: PostgreSQL, MongoDB, MS SQL 🐼\n
-Other: Java script, Docker, Bash Script, VSCode, Case.one, Form.one, Doc.one, API 👽\n
+Visualization: Power BI, Superset, Metabase 😸  
+Workflows: Airflow  
+Databases: PostgreSQL, MongoDB, MS SQL 🐼  
+Other: Java script, Docker, Bash Script, VSCode, Case.one, Form.one, Doc.one, API 👽  
 
 
 
