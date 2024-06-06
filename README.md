@@ -5,8 +5,7 @@
 😯 Technical Toolkit  
 Data Manipulation: SQL, NoSQL, Python, Excel, Postgre, CSS, NoCode 😼  
 Big Data: -  
-Cloud Technologies: AWS, S3, Spark, Hadoop
-
+Cloud Technologies: AWS, S3, Spark, Hadoop 😸
 Visualization: Power BI, Superset, Metabase 😸  
 Workflows: Airflow  
 Databases: PostgreSQL, MongoDB, MS SQL 🐼  
