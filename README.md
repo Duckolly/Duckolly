@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning SQL-postgre, python, dax, ms-sql, css  
 
 😯 Technical Toolkit  
-Data Manipulation: SQL, NoSQL, Python, Excel, Postgre, CSS, NoCode 😼  
+Data Manipulation: SQL, NoSQL, Python, Excel, Postgre, CSS, NoCode(Case.one,Form.One,Doc.one) 😼  
 Big Data: -  
 Cloud Technologies: AWS, S3, Spark, Hadoop 😸
+
 Visualization: Power BI, Superset, Metabase 😸  
 Workflows: Airflow  
 Databases: PostgreSQL, MongoDB, MS SQL 🐼  
